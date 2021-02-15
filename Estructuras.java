@@ -3,7 +3,7 @@ package estructuras;
 
 /**
  *
- * primera tarea
+ * primera tarea  perfecto bien hecho 
  */
 public class Estructuras {
 
